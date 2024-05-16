@@ -1,14 +1,10 @@
 {
-  "name": "hydra",
-  "version": "1.2.0",
-  "description": "Hydra",
+  "name": "quantum",
+  "version": "0.0.2",
+  "description": "Quantum",
   "main": "./out/main/index.js",
-  "author": "Los Broxas",
-  "homepage": "https://hydralauncher.site",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/hydralauncher/hydra.git"
-  },
+  "author": "Kevin Lamoni",
+  "homepage": "https://www.instagram.com/kevinlamoni/",
   "type": "module",
   "scripts": {
     "format": "prettier --write .",

@@ -1,22 +1,22 @@
 {
   "home": {
-    "featured": "Destaque",
-    "recently_added": "Recém adicionados",
-    "trending": "Populares",
-    "surprise_me": "Surpreenda-me",
+    "featured": "Bodes em destaque",
+    "recently_added": "Bodém adicionados",
+    "trending": "Bodulares",
+    "surprise_me": "Bodeenda-me",
     "no_results": "Nenhum resultado encontrado"
   },
   "sidebar": {
-    "catalogue": "Catálogo",
-    "downloads": "Downloads",
-    "settings": "Configurações",
-    "my_library": "Minha biblioteca",
+    "catalogue": "Bodálogo",
+    "downloads": "Bodloads",
+    "settings": "Bodurações",
+    "my_library": "Minha bodlioteca",
     "downloading_metadata": "{{title}} (Baixando metadados…)",
     "checking_files": "{{title}} ({{percentage}} - Verificando arquivos…)",
     "paused": "{{title}} (Pausado)",
     "downloading": "{{title}} ({{percentage}} - Baixando…)",
-    "filter": "Filtrar biblioteca",
-    "home": "Início",
+    "filter": "Filtrar bodlioteca",
+    "home": "Bode",
     "follow_us": "Acompanhe-nos",
     "discord": "Entre no nosso Discord",
     "telegram": "Entre no nosso Telegram",
@@ -24,31 +24,31 @@
     "github": "Contribua no GitHub"
   },
   "header": {
-    "search": "Buscar jogos",
-    "catalogue": "Catálogo",
-    "downloads": "Downloads",
+    "search": "Buscar bogos",
+    "catalogue": "Bodálogo",
+    "downloads": "Bodloads",
     "search_results": "Resultados da busca",
-    "settings": "Configurações",
-    "home": "Início"
+    "settings": "Bodurações",
+    "home": "Bode"
   },
   "bottom_panel": {
-    "no_downloads_in_progress": "Sem downloads em andamento",
+    "no_downloads_in_progress": "Sem bodloads em andamento",
     "downloading_metadata": "Baixando metadados de {{title}}…",
     "checking_files": "Verificando arquivos de {{title}}… ({{percentage}} completo)",
     "downloading": "Baixando {{title}}… ({{percentage}} completo) - Conclusão {{eta}} - {{speed}}"
   },
   "game_details": {
-    "open_download_options": "Ver opções de download",
-    "download_options_zero": "Sem opções de download",
-    "download_options_one": "{{count}} opção de download",
-    "download_options_other": "{{count}} opções de download",
+    "open_download_options": "Ver opções de bodload",
+    "download_options_zero": "Sem opções de bodload",
+    "download_options_one": "{{count}} opção de bodload",
+    "download_options_other": "{{count}} opções de bodload",
     "updated_at": "Atualizado {{updated_at}}",
     "resume": "Resumir",
     "pause": "Pausar",
     "cancel": "Cancelar",
     "remove": "Remover",
     "remove_from_list": "Remover",
-    "space_left_on_disk": "{{space}} livres em disco",
+    "space_left_on_disk": "{{space}} bodes em disco",
     "eta": "Conclusão {{eta}}",
     "downloading_metadata": "Baixando metadados…",
     "checking_files": "Verificando arquivos…",
@@ -68,9 +68,9 @@
     "amount_hours": "{{amount}} horas",
     "amount_minutes": "{{amount}} minutos",
     "accuracy": "{{accuracy}}% de precisão",
-    "add_to_library": "Adicionar à biblioteca",
-    "remove_from_library": "Remover da biblioteca",
-    "no_downloads": "Nenhum download disponível",
+    "add_to_library": "Adicionar à bodlioteca",
+    "remove_from_library": "Remover da bodlioteca",
+    "no_downloads": "Nenhum bodload disponível",
     "play_time": "Jogado por {{amount}}",
     "next_suggestion": "Próxima sugestão",
     "install": "Instalar",
@@ -82,8 +82,8 @@
     "playing_now": "Jogando agora",
     "change": "Mudar",
     "repacks_modal_description": "Escolha o repack do jogo que deseja baixar",
-    "select_folder_hint": "Para trocar a pasta padrão, acesse a <0>Tela de Configurações</0>",
-    "download_now": "Baixe agora",
+    "select_folder_hint": "Para trocar a pasta padrão, acesse a <0>Tela de Bodurações</0>",
+    "download_now": "Bode agora",
     "installation_instructions": "Instruções de Instalação",
     "installation_instructions_description": "Passos adicionais são necessários para instalar esse jogo",
     "online_fix_instruction": "Jogos OnlineFix precisam de uma senha para serem extraídos. Quando solicitado, utilize a seguinte senha:",
@@ -93,8 +93,8 @@
     "copied_to_clipboard": "Copiado",
     "got_it": "Entendi",
     "no_shop_details": "Não foi possível obter os detalhes da loja.",
-    "download_options": "Opções de download",
-    "download_path": "Diretório de download",
+    "download_options": "Opções de bodload",
+    "download_path": "Diretório de bodload",
     "previous_screenshot": "Captura de tela anterior",
     "next_screenshot": "Próxima captura de tela",
     "screenshot": "Captura de tela {{number}}",
@@ -119,7 +119,7 @@
     "cancelled": "Cancelado",
     "download_again": "Baixar novamente",
     "cancel": "Cancelar",
-    "filter": "Filtrar jogos baixados",
+    "filter": "Filtrar bogos boxaidos",
     "remove": "Remover",
     "downloading_metadata": "Baixando metadados…",
     "checking_files": "Verificando arquivos…",
@@ -134,10 +134,10 @@
     "real_debrid": "Real Debrid"
   },
   "settings": {
-    "downloads_path": "Diretório dos downloads",
+    "downloads_path": "Diretório dos bodloads",
     "change": "Mudar",
     "notifications": "Notificações",
-    "enable_download_notifications": "Quando um download for concluído",
+    "enable_download_notifications": "Quando um bodload for concluído",
     "enable_repack_list_notifications": "Quando a lista de repacks for atualizada",
     "telemetry": "Telemetria",
     "telemetry_description": "Habilitar estatísticas de uso anônimas",
@@ -159,11 +159,11 @@
     "repack_count_other": "{{count}} novos repacks"
   },
   "system_tray": {
-    "open": "Abrir Hydra",
+    "open": "Abrir Quantum",
     "quit": "Fechar"
   },
   "game_card": {
-    "no_downloads": "Sem downloads disponíveis"
+    "no_downloads": "Sem bodloads disponíveis"
   },
   "binary_not_found_modal": {
     "title": "Programas não instalados",
@@ -171,8 +171,8 @@
     "instructions": "Verifique a forma correta de instalar algum deles no seu distro Linux, garantindo assim a execução normal do jogo"
   },
   "catalogue": {
-    "next_page": "Próxima página",
-    "previous_page": "Página anterior"
+    "next_page": "Próxima bódina",
+    "previous_page": "Página boderior"
   },
   "modal": {
     "close": "Botão de fechar"

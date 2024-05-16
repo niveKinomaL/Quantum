@@ -4,11 +4,11 @@ export const SPACING_UNIT = 8;
 
 export const [themeClass, vars] = createTheme({
   color: {
-    background: "#1c1c1c",
-    darkBackground: "#151515",
-    muted: "#c0c1c7",
-    bodyText: "#8e919b",
-    border: "#424244",
+    background: "#0F0F0F",
+    darkBackground: "#0F0F0F",
+    muted: "#B6BBC4",
+    bodyText: "#B6BBC4",
+    border: "#713ABE",
   },
   opacity: {
     disabled: "0.5",

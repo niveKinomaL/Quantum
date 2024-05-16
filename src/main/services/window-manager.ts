@@ -29,9 +29,9 @@ export class WindowManager {
   public static createMainWindow() {
     // Create the browser window.
     this.mainWindow = new BrowserWindow({
-      width: 1200,
-      height: 720,
-      minWidth: 1024,
+      width: 960,
+      height: 540,
+      minWidth: 960,
       minHeight: 540,
       titleBarStyle: "hidden",
       ...(process.platform === "linux" ? { icon } : {}),

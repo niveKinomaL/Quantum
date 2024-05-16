@@ -141,7 +141,7 @@ export function Sidebar() {
           macos: window.electron.platform === "darwin",
         })}
       >
-        {window.electron.platform === "darwin" && <h2>Hydra</h2>}
+        {window.electron.platform === "darwin" && <h2>Quantum</h2>}
 
         <section className={styles.section}>
           <ul className={styles.menu}>

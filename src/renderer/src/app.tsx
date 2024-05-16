@@ -113,7 +113,7 @@ export function App({ children }: AppProps) {
     <>
       {window.electron.platform === "win32" && (
         <div className={styles.titleBar}>
-          <h4>Hydra</h4>
+          <h4>Quantum | Kevin Lamoni</h4>
         </div>
       )}
 

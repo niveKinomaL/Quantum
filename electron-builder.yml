@@ -1,5 +1,5 @@
-appId: site.hydralauncher.hydra
-productName: Hydra
+appId: site.quantumlauncher.quantum
+productName: Quantum
 directories:
   buildResources: build
 extraResources:
@@ -16,7 +16,7 @@ files:
 asarUnpack:
   - resources/**
 win:
-  executableName: Hydra
+  executableName: Quantum
   requestedExecutionLevel: requireAdministrator
 nsis:
   artifactName: ${name}-${version}-setup.${ext}
@@ -46,7 +46,7 @@ appImage:
 npmRebuild: false
 publish:
   provider: github
-  owner: hydralauncher
-  repo: hydra
+  owner: KevinLamoni
+  repo: quantum
 electronDownload:
   mirror: https://npmmirror.com/mirrors/electron/
